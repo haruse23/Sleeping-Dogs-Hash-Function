@@ -1,0 +1,12 @@
+Hash Function is sub_00578250
+
+ --- > Called in function sub_006b8d30 (one of the arguments is OpeningCredits)
+
+
+-----> Called in function sub_9b68b0
+
+
+------> cross-referenced from strings OpeningCredits and UIHKScreenOpeningCredits
+
+
+-------> in Binary Ninja
